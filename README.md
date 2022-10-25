@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @daniylAntoniuk
-- 📫 How to reach me: https://www.linkedin.com/in/danyil-antoniuk-37a0a91a7/
+- Hi, I’m @daniylAntoniuk
+- How to reach me: https://www.linkedin.com/in/danyil-antoniuk-37a0a91a7/
 
 <!---
 daniylAntoniuk/daniylAntoniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
